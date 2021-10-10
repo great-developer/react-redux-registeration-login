@@ -1,0 +1,1 @@
+Described react-redux for login and registeration.
